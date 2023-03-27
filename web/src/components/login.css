@@ -1,0 +1,38 @@
+.loginDiv {
+    border: 1px solid black;
+    border-radius: 5px;
+    justify-content: center;
+    width: max-content;
+    margin-top: 250px;
+    margin-left: 600px;
+}
+
+
+
+
+.loginForm {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    margin: 20px;
+}
+
+.loginForm>.TextField {
+    width: 400px;
+}
+
+
+.heading {
+    display: flex;
+    justify-content: center;
+}
+
+.loginbutton {
+    border-radius: 5px;
+    width: 100px;
+    height: 30px;
+    margin-left: 150px;
+}
+.forgotButton{
+    margin-left: 160px;
+}

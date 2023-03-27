@@ -1,0 +1,45 @@
+.signupDiv{
+    border: 1px solid black;
+    border-radius: 5px;
+    justify-content: center;
+    width: max-content;
+    margin-top: 250px;
+    margin-left: 600px;
+    padding: 5px;
+
+}
+
+
+.Heading {
+    display: flex;
+    justify-content: center;
+}
+
+.signupForm{
+    margin: 20px;
+}
+
+.inputfield1{
+    margin-left: 92px;
+    margin-bottom: 10px;
+}
+.inputfield2{
+    margin-left: 92px;
+    margin-bottom: 10px;
+}
+.inputfield3{
+    margin-left: 65px;
+    margin-bottom: 10px;
+}.inputfield4{
+    margin-left: 6px;
+    margin-bottom: 10px;
+}
+
+.signupButton {
+    border-radius: 5px;
+    width: 100px;
+    height: 30px;
+    margin-left: 110px;
+    margin-top: 20px;
+}
+
