@@ -50,7 +50,7 @@ function Login() {
     return (
         
         <div className="loginDiv"> 
-            <h4 className="heading">This is Login page</h4>
+            <h4 className="headingLogin">This is Login page</h4>
 
             {state.text}
 
