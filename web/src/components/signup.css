@@ -1,4 +1,4 @@
-.signupDiv{
+/* .signupDiv{
     border: 1px solid black;
     border-radius: 5px;
     justify-content: center;
@@ -42,4 +42,14 @@
     margin-left: 110px;
     margin-top: 20px;
 }
+ */
 
+.signupButton{
+    height: 30px;
+    width: 100px;
+    letter-spacing: 4px;
+    text-transform: uppercase;
+    color: #03e9f4;
+    background: linear-gradient(#141e30, #243b55);
+    font-size: 16px;
+}
